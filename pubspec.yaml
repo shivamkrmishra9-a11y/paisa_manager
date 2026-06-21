@@ -1,14 +1,10 @@
 name: paisa_manager
-description: RozReward earning app.
+description: A new Flutter project.
 version: 1.0.0+1
-
 environment:
   sdk: ">=3.0.0 <4.0.0"
-
 dependencies:
   flutter:
     sdk: flutter
-
 flutter:
-  uses-material-design: true
-  
+  uses-material-design: true' 
