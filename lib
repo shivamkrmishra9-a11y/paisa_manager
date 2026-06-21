@@ -1,0 +1,5 @@
+name: paisa_manager
+description: A new Flutter project.
+dependencies:
+  flutter:
+    sdk: flutter
