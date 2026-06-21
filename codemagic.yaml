@@ -7,4 +7,3 @@ workflows:
       - flutter build apk --debug
     artifacts:
       - build/app/outputs/flutter-apk/*.apk
-      
