@@ -6,6 +6,6 @@ workflows:
     environment:
       flutter: stable
     scripts:
-      - flutter build apk --debug -t lib/main.dart
+      - flutter build apk --debug -t main.dart
     artifacts:
       - build/app/outputs/flutter-apk/*.apk
